@@ -16,12 +16,13 @@ carraige returns,
 This has some code  `varable` inline code .
 
 ```html
-<p> a paragraph example </p> 
+<p> a paragraph example for a different branch </p> 
 ```
 ```javascript
 ```
 ```python
 ```
+![alt text](https://picsum.photos/100/100)
 
 ![alt text](https://picsum.photos/200/200)
 
