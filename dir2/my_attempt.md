@@ -23,7 +23,7 @@ This has some code  `varable` inline code .
 ```python
 ```
 
-![alt text](https://picsum.photos/200/200)
+![alt text](https://picsum.photos/400/400)
 
 Some para with text
 
