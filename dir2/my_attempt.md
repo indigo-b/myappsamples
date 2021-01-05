@@ -34,4 +34,4 @@ Some para with text
 | --- | --- | --- |
 | more | more | more |
 
-This is being * created on a ** Monda ** ~~Saturday~. 
+This is being * created on a ** Monday** ~~Saturday~~. 
